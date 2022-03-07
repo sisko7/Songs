@@ -1,14 +1,14 @@
 {
   "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
+      "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "9ebece86f8b63b26",
-      "main_ads_intertitial":"62911322e38aed09",
+      "main_ads_banner": "ca-app-pub-7425149308514605/5125096336",
+      "main_ads_intertitial":"ca-app-pub-7425149308514605/2498932992",
       "native_for_admob":"",
       "backup_ads_banner":"66864ea3501b098a",
       "backup_ads_intertitial":"c50372f51897b4b9",
-      "interval_intertitial": 2,
+      "interval_intertitial": 4,
       "initialize_sdk":"GJCRef5zo3gn9R8AfW7JyG_KEnCdAAb8myoU1qDQTlaUdmIFIwd66p3StdL0iLZ8HeqRfnN_h5-gz5XiU6BMBG",
       "initialize_sdk_backup_ads":"GJCRef5zo3gn9R8AfW7JyG_KEnCdAAb8myoU1qDQTlaUdmIFIwd66p3StdL0iLZ8HeqRfnN_h5-gz5XiU6BMBG",
       "high_paying_keyword_1": "how to make money",

@@ -1,15 +1,15 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOB",
+      "select_main_ads": "APPLOVIN-M",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-7425149308514605/5125096336",
-      "main_ads_intertitial":"ca-app-pub-7425149308514605/2498932992",
+      "main_ads_banner": "906888759651936_906891756318303",
+      "main_ads_intertitial":"906888759651936_906890186318460",
       "native_for_admob":"",
       "backup_ads_banner":"66864ea3501b098a",
       "backup_ads_intertitial":"c50372f51897b4b9",
       "interval_intertitial": 4,
-      "initialize_sdk":"null",
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"GJCRef5zo3gn9R8AfW7JyG_KEnCdAAb8myoU1qDQTlaUdmIFIwd66p3StdL0iLZ8HeqRfnN_h5-gz5XiU6BMBG",
       "high_paying_keyword_1": "how to make money",
       "high_paying_keyword_2": "طرق الربح من الانترنت",

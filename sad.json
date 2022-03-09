@@ -1,13 +1,13 @@
 {
   "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "Facebook",
       "select_backup_ads":"APPLOVIN-M",
       "main_ads_banner": "2572231256221997_3595839700527809",
       "main_ads_intertitial":"2572231256221997_2649796681798787",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 2,
       "initialize_sdk":"null",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",

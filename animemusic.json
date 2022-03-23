@@ -22,213 +22,84 @@
   "Categories": [
     {
       "id": 1,
-      "name_category": "naruto",
-      "image": "https://i.pinimg.com/736x/93/7a/b6/937ab609b75f1ddc91019d7be9e653dd.jpg"
+      "name_category": "Khalid Basalamah",
+      "image": "file:///android_asset/image/khalid.jpg"
     },
     {
       "id": 2,
-      "name_category": "one piece",
-      "image": "https://i.pinimg.com/736x/84/aa/0d/84aa0dadd6cbd869bf40397a1a59e4cb.jpg"
+      "name_category": "Hanan Attaki",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
     },
     {
       "id": 3,
-      "name_category": "Fullmetal Alchemist",
-      "image": "https://i.pinimg.com/736x/38/dc/f3/38dcf35d58109f6c67562847ca9c3b6d.jpg"
+      "name_category": "Mr. Kim",
+      "image": "file:///android_asset/image/kim.jpeg"
     },
     {
       "id": 4,
-      "name_category": "Black Clover",
-      "image": "https://i.pinimg.com/564x/22/4f/95/224f95f6d471edccaa8953fd085dd3b9.jpg"
+      "name_category": "Ammi Nur Bait",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
     },
     {
-      "id": 5,
-      "name_category": "Fire Force",
-      "image": "https://i.pinimg.com/736x/96/ac/10/96ac108d3d0f10fb8dbee5ebd38efff2.jpg"
-    },
-	    {
-      "id": 6,
-      "name_category": "Hunter x Hunter",
-      "image": "https://i.pinimg.com/564x/47/05/c7/4705c78aef50055eaf171e5cc003f346.jpg"
-    },
-	    {
-      "id": 7,
-      "name_category": "Attack On Titan",
-      "image": "https://i.pinimg.com/564x/40/58/d7/4058d7db9348a332b0d9be7033136225.jpg"
+      "id": 4,
+      "name_category": "Adi Hidayat",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Attack On Titan",
-      "title": "Opening Guren no Yumiya Live",
-      "image": "https://i.pinimg.com/564x/04/f0/16/04f01666da105fea674c0cbac09b134b.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1fER4nbUzda7_v2fMV5MpddcGQPxfXaH7",
-      "duration": "648",
-      "lyrics": "" },
+      "name_category": "Khalid Basalamah",
+      "title": "Paksakan Ibadah",
+      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
+      "duration": "101",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
     {
       "id": 2,
-      "name_category": "Attack On Titan",
-      "title": "Versão Completa - Akuma No ko",
-      "image": "https://i.pinimg.com/564x/04/f0/16/04f01666da105fea674c0cbac09b134b.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=12adapO7m7sLec4B7GdpwQTD-u0p1DGpQ",
-      "duration": "224",
-      "lyrics": "" },
+      "name_category": "Khalid Basalamah",
+      "title": "Dosa Membawa Keburukan",
+      "image": "file:///android_asset/image/khalid.jpg",
+      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
+      "duration": "54",
+      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
     {
       "id": 3,
-      "name_category": "Attack On Titan",
-      "title": "Opening 1",
-      "image": "https://i.pinimg.com/564x/04/f0/16/04f01666da105fea674c0cbac09b134b.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1him07dbN58Lcc4D88BUMeedIVOyAV4NR",
-      "duration": "91",
-      "lyrics": ""
+      "name_category": "Hanan Attaki",
+      "title": "Lapang Dada",
+      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
+      "duration": "61",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
     },
     {
       "id": 4,
-      "name_category": "Attack On Titan",
-      "title": "2 opening",
-      "image": "https://i.pinimg.com/564x/04/f0/16/04f01666da105fea674c0cbac09b134b.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1uALGDuRAZf6DpuWSfPRisuCmM-d0wOOv",
-      "duration": "207",
-      "lyrics": ""
+      "name_category": "Ammi Nur Bait",
+      "title": "Cambuk Untuk Kita Semua",
+      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
+      "duration": "240",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
     }
   ,
     {
       "id": 5,
-      "name_category": "Black Clover",
-      "title": "Ending 4",
-      "image": "https://i.pinimg.com/564x/91/9b/5c/919b5c2121d08bc7e7f5a38cb4582f3a.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1ia5yfjBoxcrFwJ5JTY4HWIpt0XimSIY4",
-      "duration": "104",
-      "lyrics": ""
+      "name_category": "Adi Hidayat",
+      "title": "Selalu Tenang karena ada Allah",
+      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
+      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
+      "duration": "235",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
     }
   ,
     {
       "id": 6,
-      "name_category": "Black Clover",
-      "title": "Opening 3 ",
-      "image": "https://i.pinimg.com/564x/91/9b/5c/919b5c2121d08bc7e7f5a38cb4582f3a.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1WyxiYlGF1v1ejiaKS-xID_u9VF0hd8hn",
-      "duration": "104",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 7,
-      "name_category": "Fire Force",
-      "title": "Opening Theme – Inferno",
-      "image": "https://i.pinimg.com/736x/96/ac/10/96ac108d3d0f10fb8dbee5ebd38efff2.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=19Lmd0UxwQji1QQJmCtXUTjSvejnv7Ttc",
-      "duration": "89",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 8,
-      "name_category": "Fullmetal Alchemist",
-      "title": "Creditless OP 1",
-      "image": "https://i.pinimg.com/736x/38/dc/f3/38dcf35d58109f6c67562847ca9c3b6d.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1x1gmcNt35WpWzssc6AoCQcWnJnnCO4uK",
-      "duration": "92",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 9,
-      "name_category": "Fullmetal Alchemist",
-      "title": "Brotherhood ED 1",
-      "image": "https://i.pinimg.com/736x/38/dc/f3/38dcf35d58109f6c67562847ca9c3b6d.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1b7Xw7U3C5KYbTlQfwTSL_hPHQBIuuJ5h",
-      "duration": "88",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 10,
-      "name_category": "Hunter x Hunter",
-      "title": "Opening 1 _ Departure!",
-      "image": "https://i.pinimg.com/564x/47/05/c7/4705c78aef50055eaf171e5cc003f346.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=18kEy1W9o0PabyK53jhAgy_X-974ZdqGw",
-      "duration": "90",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 11,
-      "name_category": "Hunter x Hunter",
-      "title": "1999 Arabic Opening",
-      "image": "https://i.pinimg.com/564x/47/05/c7/4705c78aef50055eaf171e5cc003f346.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1737nKfTu3HHIIlzFIP_P8r0b-uL3CxRF",
-      "duration": "85",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 12,
-      "name_category": "naruto",
-      "title": "Ending 15 _ U Can Do It",
-      "image": "https://i.pinimg.com/736x/93/7a/b6/937ab609b75f1ddc91019d7be9e653dd.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1Gz3R93Ony1LiURDCoclFV5jAB-yTzjiT",
-      "duration": "100",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 13,
-      "name_category": "naruto",
-      "title": "Opening 16 _ Silhouette",
-      "image": "https://i.pinimg.com/736x/93/7a/b6/937ab609b75f1ddc91019d7be9e653dd.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1LcJhKztPE8ZJsgxmzCA9efbSnqtzrMTd",
-      "duration": "99",
-      "lyrics": ""
-    },
-	    {
-      "id": 14,
-      "name_category": "naruto",
-      "title": "Ending 34 _ Niji no Sora",
-      "image": "https://i.pinimg.com/736x/93/7a/b6/937ab609b75f1ddc91019d7be9e653dd.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1ydpMxztvRARBKgE2Md2YzFHSErsTzLs7",
-      "duration": "104",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 15,
-      "name_category": "naruto",
-      "title": "Opening 3 _ Blue Bird",
-      "image": "https://i.pinimg.com/736x/93/7a/b6/937ab609b75f1ddc91019d7be9e653dd.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1IhlHeokP7twGAZy095WOLAJrTBgK7egz",
-      "duration": "104",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 16,
-      "name_category": "naruto",
-      "title": "Opening 5 _ Hotaru no Hikar",
-      "image": "https://i.pinimg.com/736x/93/7a/b6/937ab609b75f1ddc91019d7be9e653dd.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1sPcxE0G8t4ZccFvs_OmEXXDZohD3KqWd",
-      "duration": "104",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 17,
-      "name_category": "one piece",
-      "title": "Opening Theme 20 – Hope",
-      "image": "https://i.pinimg.com/736x/84/aa/0d/84aa0dadd6cbd869bf40397a1a59e4cb.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1rY1kH4KDcszWQai4sCQjzhehispOFq3c",
-      "duration": "150",
-      "lyrics": ""
-    }
-	,
-	    {
-      "id": 18,
-      "name_category": "one piece",
-      "title": "One Piece Opening 14 ",
-      "image": "https://i.pinimg.com/736x/84/aa/0d/84aa0dadd6cbd869bf40397a1a59e4cb.jpg",
-      "link_mp3": "https://docs.google.com/uc?export=open&id=1Sp8ZQBAJw9VBH-7_TAGSBYVLDo0BK6aA",
-      "duration": "149",
-      "lyrics": ""
+      "name_category": "Mr. Kim",
+      "title": "Source Code Mp3 Player",
+      "image": "file:///android_asset/image/kim.jpeg",
+      "link_mp3": "mp3/kim.ogg",
+      "duration": "36",
+      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
     }
   ]
 }
